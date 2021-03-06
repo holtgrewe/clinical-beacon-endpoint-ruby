@@ -10,6 +10,6 @@ Matches this client here:
 
 0. Generate public/private key pair with [varfish-clinical-beacon-client](https://github.com/bihealth/varfish-clinical-beacon-client)
 1. Setup Ruby & Ruby on Rails
-  - https://www.howtoforge.com/tutorial/ubuntu-ruby-on-rails/
+    - https://www.howtoforge.com/tutorial/ubuntu-ruby-on-rails/
 2. Clone this repository
-3. ...
+3. Install dependencies [TODO: how-to?]
